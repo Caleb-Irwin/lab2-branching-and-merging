@@ -2,6 +2,8 @@
 
 The main topic of this first lab activity is branching and merging in git.
 
+Test addition.
+
 ## Resources and Acknowledgements
 
 - https://www.atlassian.com/git/tutorials/using-branches contains an excellent, detailed
@@ -97,9 +99,9 @@ on their own branch.
 
 You'll notice that your repository already has two branches called `alice` and `bob`.
 
-- [ ] Checkout the `alice` branch.
+- [x] Checkout the `alice` branch.
 
-- [ ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
+- [x] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
   parts of each recipe to keep.
   - Read what either `git` or `IntelliJ` tells you in order to complete the merge process.
